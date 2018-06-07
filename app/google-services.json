@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "703224844805",
+    "firebase_url": "https://cardrecognition.firebaseio.com",
+    "project_id": "cardrecognition",
+    "storage_bucket": "cardrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703224844805:android:e6694508f3e6b68a",
+        "android_client_info": {
+          "package_name": "outware.com.example.cardrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703224844805-4jm28elcabfmmnklsnu29repjkpu6b3c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "703224844805-4jm28elcabfmmnklsnu29repjkpu6b3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd221uhMh0emB2L765_sUk2y5cXx3B6ns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
